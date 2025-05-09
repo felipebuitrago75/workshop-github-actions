@@ -1,5 +1,5 @@
 [project]
-name = "fastapi-poetry-deploy-example"
+name = "fastapi-poetry-deploy-afbf"
 description = "Example FastAPI Application for Testing Containerized Build and Deploy"
 license = { file = "../LICENSE" }
 readme = "README.md"
