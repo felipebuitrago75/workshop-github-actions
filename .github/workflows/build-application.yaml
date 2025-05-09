@@ -78,7 +78,7 @@ jobs:
           name: fastapi-poetry-deploy-example-package
           path: "python/dist/*"
 
-   build-container:
+    build-container:
      name: Build the Python Container
      if: ${{ inputs.containerized }}
      uses: ./.github/workflows/build-container.yaml
